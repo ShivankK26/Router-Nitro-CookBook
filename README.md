@@ -9,15 +9,14 @@ Welcome to the Router Nitro Course! This README serves as a guide to the structu
 1. [What's the Need of Router Nitro & Why to Use it?](#1-need-of-nitro--why-to-use-nitro)
 2. [What is Asset Swapping and Asset Transfer?](#2-asset-swapping-and-asset-transfer)
 3. [Introduction to Router Nitro & its Statistics](#3-introduction-to-nitro--statistics-of-nitro)
-4. [Our Weekly Users & Chains Supported](#4-weekly-users--chains-supported)
-5. [What's the Difference between Router Nitro & Other Products in the Market?](#5-differences-between-nitro--other-products-why-nitro-is-the-best)
-6. [Understanding Forwarders and How They Work?](#6-understanding-forwarders-and-how-they-work)
-7. [What are Some Prerequisites for Learning Router Nitro?](#7-prerequisites-for-nitro)
-8. [Theoretical Concepts Involved in Router Nitro](#8-theoretical-steps-involved-in-nitro)
-9. [Explaining the Codebase of Router Nitro - Part 1](#9-explaining-the-codebase---part-1)
-10. [Explaining the Codebase of Router Nitro - Part 2](#10-explaining-the-codebase---part-2)
-11. [Explaining the Codebase of Router Nitro - Part 3](#11-explaining-the-codebase---part-3)
-12. [Summary & Cheatsheets](#12-summary--cheatsheets)
+4. [What's the Difference between Router Nitro & Other Products in the Market?](#5-differences-between-nitro--other-products-why-nitro-is-the-best)
+5. [Understanding Forwarders and How They Work?](#6-understanding-forwarders-and-how-they-work)
+6. [What are Some Prerequisites for Learning Router Nitro?](#7-prerequisites-for-nitro)
+7. [Theoretical Concepts Involved in Router Nitro](#8-theoretical-steps-involved-in-nitro)
+8. [Explaining the Codebase of Router Nitro - Part 1](#9-explaining-the-codebase---part-1)
+9. [Explaining the Codebase of Router Nitro - Part 2](#10-explaining-the-codebase---part-2)
+10. [Explaining the Codebase of Router Nitro - Part 3](#11-explaining-the-codebase---part-3)
+11. [Summary & Cheatsheets](#12-summary--cheatsheets)
 
 ### 1. Need of Router Nitro & Why to Use it?
 
