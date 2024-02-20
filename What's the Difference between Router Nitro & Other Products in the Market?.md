@@ -2,6 +2,9 @@ Welcome to the Module 4 Of the Router Nitro CookBook. In this module, we'll be u
 
 # Module 4: What's the Difference between Router Nitro & Other Products in the Market?
 
+![router chain](https://github.com/ShivankK26/Router-Nitro-CookBook/assets/115289871/edac46cf-dadb-4a42-ba1b-503af9d087a6)
+
+
 ### Why Router Nitro is the BEST solution in market?
 
 - It is difficult and costly for experienced DeFi users to move funds across chains. It is near impossible for newcomers to do so — let alone understand these problems, to begin with. While the fee problem has been solved, these separate solutions have effectively split liquidity into segregated markets that are isolated from one another. There may be liquidity for a trading pair on Polygon — but not on ETH or BSC, for example. This poses a significant new challenge for the industry.
