@@ -20,7 +20,7 @@ Asset swapping, and asset transfer are concepts related to Blockchain and CrossC
 
 - Asset transfer can occur for various reasons, including peer-to-peer transactions, payment settlements, remittances, and smart contract interactions. CrossChain asset transfers require interoperability solutions or bridges to facilitate the secure and trustless transfer of assets between disparate blockchain networks.
 
-# Conclusion:
+# Conclusion
 
 In conclusion, Module 2 has provided a comprehensive understanding of asset swapping and asset transfer in the context of blockchain and cross-chain interoperability. We have explored the distinct concepts of asset swapping and asset transfer, each serving different purposes in enabling the movement of assets across different blockchain networks.
 
